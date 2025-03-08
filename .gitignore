@@ -1,0 +1,9 @@
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+
+# 環境関連
+.env
+.DS_Store
+
